@@ -1,1 +1,4 @@
-I am learning about github
+I am learning about git and github.
+git is a version control system.
+it is used to track the previous version of a code.
+it also used collabrate while working.
